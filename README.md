@@ -1,7 +1,7 @@
 ## Environment configuration
-- Using GPUs will make things run faster.
+### Using GPUs will make things run faster.
 
-We can access the server by using SSH: `ssh -L 8888:localhost:8888 [your_x_account]@mltgpu.flov.gu.se -p 62266`
+- We can access the server by using SSH: `ssh -L 8888:localhost:8888 [your_x_account]@mltgpu.flov.gu.se -p 62266`
 
 `ssh` tells the computer to connect remotely to the server.
 
